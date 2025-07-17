@@ -1,4 +1,4 @@
-# dns-icmp-analysis-report
+# Dns-icmp-analysis-report
 # DNS and ICMP Network Traffic Analysis
 
 This repository contains my analysis of a basic cybersecurity incident involving DNS queries and ICMP error messages. This was part of a beginner-level exercise to help understand how network protocols behave when a service is down or unreachable.
